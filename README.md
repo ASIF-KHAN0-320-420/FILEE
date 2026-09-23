@@ -1,3 +1,7 @@
+
+
+
+
 ## ⚡ INSTALL TOOL ON TERMUX
 
 ```bash
@@ -13,7 +17,9 @@ pip install futures
 pip install mechanize
 ```
 
-## 🚀 DOWNLOAD & RUN
+## 🚀 DOWNLOAD & RUN  ES COMMAND K LIYE 
+## ✅ PEHLY OPER COMMAND SE TERMUX 
+## ✅ PYTHON 3.11 SETUP KARNA HOGA TAK WORKING HOGI
 
 ```bash
 rm -rf FILEE
