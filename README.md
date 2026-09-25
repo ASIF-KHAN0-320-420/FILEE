@@ -1,4 +1,4 @@
-#### 🐍 PYTHON 3.11 SETUP
+w#### 🐍 PYTHON 3.11 SETUP
 
 ## Agar Termux mein Python 3.13 installed hai
 ## aur Python 3.11 use karna.
@@ -68,14 +68,13 @@ pip install futures
 pip install mechanize
 ```
 
-## 🚀 DOWNLOAD & RUN  ES COMMAND K LIYE 
+## 🚀 ES COMMAND K LIYE 
 ## ✅ PEHLY OPER COMMAND SE TERMUX 
-## ✅ PYTHON 3.11 SETUP KARNA HOGA TAK WORKING HOGI
-
-```bash
+## ✅ PYTHON 3.11 SETUP KARNA HOGA TAK ## ✅ WORKING HOGI
+```
 rm -rf FILEE
 cd
-git clone https://github.com/walilila40-ui/FILEE
+git clone https://github.com/ASIF-KHAN0-320-420/FILEE
 cd FILEE
 python FILER.py
 ```
