@@ -1,33 +1,34 @@
-## first ye command Lagana👇👇👇
+## First ye command lagana 👇👇
+## Python 3.11 install karo
 
+```bash
+curl -fsSL [https://raw.githubusercontent.com/adybag14-cyber/termux-python/main/install.sh](https://raw.githubusercontent.com/adybag14-cyber/termux-python/main/install.sh) | bash -s -- 3.11
 ```
-curl -fsSL https://raw.githubusercontent.com/adybag14-cyber/termux-python/main/install.sh | bash -s -- 3.11
-```
-
-
 
 ## ⚡ INSTALL TOOL ON TERMUX
 
-```bash
-pkg update
-pkg upgrade
+- `pkg update`
 
-pkg install python
-pkg install git
+- `pkg upgrade`
 
-pip install requests
-pip install bs4
-pip install futures
-pip install mechanize
-```
+- `pkg install python`
 
-## 🚀 ES COMMAND K LIYE 
-## ✅ PEHLY OPER COMMAND SE TERMUX 
-## ✅ PYTHON 3.11 SETUP KARNA HOGA TAK ## ✅ WORKING HOGI
-```
-rm -rf FILEE
-cd
-git clone https://github.com/ASIF-KHAN0-320-420/FILEE
-cd FILEE
-python FILER.py
-```
+- `pkg install git`
+
+- `pip install requests`
+
+- `pip install bs4`
+
+- `pip install futures`
+
+- `pip install mechanize`
+
+- `rm -rf FILEE`
+
+- `cd`
+
+- `git clone https://github.com/ASIF-KHAN0-320-420/FILEE`
+
+- `cd FILEE`
+
+- `python FILER.py`
